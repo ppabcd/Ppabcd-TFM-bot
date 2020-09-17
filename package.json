@@ -1,0 +1,22 @@
+{
+  "name": "ppabcd-tfm-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tfm-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tfm-bot.js"
+  },
+  "author": "Reza Juliandri",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheesy.js": "git+https://github.com/Turkitutu/cheesy.js.git",
+    "child_process": "^1.0.2",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "md5": "^2.3.0"
+  }
+}
